@@ -1,9 +1,11 @@
                       ,---------------------------,
                       |  /---------------------\  |
                       | |                       | |
-                      | |   Vignesh Varanasi    | |
+                      | |    Vignesh Varanasi   | |
                       | |                       | |
-                      | |  vigneshvaranasi.me   | |
+                      | |      npx vignesh      | |
+                      | |                       | |
+                      | |   vigneshvaranasi.me  | |
                       | |                       | |
                       |  \_____________________/  |
                       |___________________________|
