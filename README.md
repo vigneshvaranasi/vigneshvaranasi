@@ -1,16 +1,4 @@
-<style>
-    .custom-links a {
-        color: #007bff;
-        text-decoration: none;
-    }
-
-    .custom-links a:hover {
-        color: #ff6600;
-        text-decoration: underline;
-    }
-</style>
-
-<pre class="custom-links">
+<pre>
                       ,---------------------------,
                       |  /---------------------\  |
                       | |                       | |
