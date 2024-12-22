@@ -6,7 +6,7 @@
                       | |                       | |
                       | |      <a href="https://www.npmjs.com/package/vignesh" target="_blank">npx vignesh</a>      | |
                       | |                       | |
-                      | |   <a href="https://vigneshvaranasi.me" target="_blank">vigneshvaranasi.me</a>  | |
+                      | |   <a href="https://vigneshvaranasi.in" target="_blank">vigneshvaranasi.in</a>  | |
                       | |                       | |
                       |  \_____________________/  |
                       |___________________________|
